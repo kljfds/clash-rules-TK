@@ -1,0 +1,28 @@
+DOMAIN-KEYWORD,adspower
+DOMAIN-SUFFIX,tiktok.com
+DOMAIN-SUFFIX,tiktokv.com
+DOMAIN-SUFFIX,byteoversea.com
+DOMAIN-SUFFIX,tiktokapis.com
+DOMAIN-SUFFIX,seller-us.tiktok.com
+DOMAIN-SUFFIX,ibytedtos.com
+DOMAIN-SUFFIX,salesmartly.com
+DOMAIN-SUFFIX,salesmartly.net
+DOMAIN-SUFFIX,ipinfo.io
+DOMAIN-SUFFIX,whoer.net
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,paypal.com
+DOMAIN-SUFFIX,browserleaks.com
+DOMAIN-SUFFIX,arkoselabs.com
+DOMAIN-SUFFIX,hcaptcha.com
+DOMAIN-SUFFIX,tiktokshop.com
+DOMAIN-SUFFIX,tiktokapis.com
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,bytegecko.com
+DOMAIN-SUFFIX,byteoversea.com
+DOMAIN-SUFFIX,isnssdk.com
+DOMAIN-SUFFIX,chatway.app
+IP-CIDR,45.45.197.2/32 #美个01
+DOMAIN-SUFFIX,geo.iproyal.com #轮换住宅IP
+IP-CIDR,205.196.9.64/32 #张 美企 05 260313
+IP-CIDR,45.45.198.42/32 #齐 ACCU 01 240417
